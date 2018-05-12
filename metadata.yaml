@@ -1,10 +1,16 @@
 _repo: Der-Begriff-der-Religion-im-System-der-Philosophie_47741
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47741-h/images/cover_ebook.jpg
 creator:
   author:
     agent_name: Cohen, Hermann
     gutenberg_agent_id: '44448'
     url: http://www.gutenberg.org/2009/agents/44448
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47741#Der-Begriff-der-Religion-im-System-der-Philosophie
 gutenberg_issued: '2014-12-22'
 gutenberg_type: Text
 identifiers:
